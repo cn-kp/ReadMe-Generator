@@ -41,13 +41,18 @@ const questions = [
   },
   {
     type: "input",
+    message: "Give a breif demonstration?",
+    name: "demonstration",
+  },
+  {
+    type: "input",
     message: "Who are the contributors of this projects?",
     name: "contributors",
   },
   {
     type: "input",
     message: "Please enter the GitHub Repo Link: ",
-    name: "github-repo",
+    name: "githubRepo",
   },
   {
     type: "input",
@@ -77,8 +82,6 @@ function init() {
     writeToFile("generatedREADME.md", generateMarkdown(userInput));
     console.log(userInput);
   });
-  // writeToFile("README.md",(generateMarkdown(userAnswers)))
-  // console.log(userInput)
 }
 
 // Function call to initialize app
