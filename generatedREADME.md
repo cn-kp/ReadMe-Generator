@@ -1,7 +1,7 @@
-# as
+# readme generator
 ## Badges
 
-undefined
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Table of Contents
 
@@ -15,30 +15,30 @@ undefined
 
 ## License
 
-To learn more about GNU click the following link
-undefined
+To learn more about Mozilla click the following link
+[!Mozilla: MPL 2.0](https://opensource.org/licenses/MPL-2.0)
 
 ## Deployment
 
-[GitHub Repo](as)
-[GitHub deployment](as)
+* [GitHub Repo](google.com)
+* [GitHub deployment](google.com)
 
 ## Description
 
-as
+creates readme files based on user input
 
 ## Installation
 
-as
+vs code
 
 ## Usage
 
-as
+creating readme
 
 ## Contributors
 
-as
+kevin
 
 ## Demonstration
 
-as
+creates readme based on user input
