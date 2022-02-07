@@ -20,7 +20,11 @@ To install this program all you need is a text editior. I would recommend Visual
 
 ## Demonstration
 
-![Video Demonstration](./assets/demoVid.mp4)
+
+
+https://user-images.githubusercontent.com/63453130/152724953-7bfdc03a-5801-4bd1-b813-ca0d19b40cbc.mp4
+
+
 
 ## Credits
 
